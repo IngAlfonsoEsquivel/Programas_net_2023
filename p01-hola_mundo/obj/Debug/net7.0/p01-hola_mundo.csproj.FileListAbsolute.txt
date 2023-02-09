@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\bin\Debug\net7.0\p01-hola_mundo.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\bin\Debug\net7.0\p01-hola_mundo.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\bin\Debug\net7.0\p01-hola_mundo.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\bin\Debug\net7.0\p01-hola_mundo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\bin\Debug\net7.0\p01-hola_mundo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\refint\p01-hola_mundo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\p01-hola_mundo.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p01-hola_mundo\obj\Debug\net7.0\ref\p01-hola_mundo.dll

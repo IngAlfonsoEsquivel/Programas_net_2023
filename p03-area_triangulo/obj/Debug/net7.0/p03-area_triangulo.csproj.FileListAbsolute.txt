@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\bin\Debug\net7.0\p03-area_triangulo.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\bin\Debug\net7.0\p03-area_triangulo.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\bin\Debug\net7.0\p03-area_triangulo.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\bin\Debug\net7.0\p03-area_triangulo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\bin\Debug\net7.0\p03-area_triangulo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\refint\p03-area_triangulo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\p03-area_triangulo.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p03-area_triangulo\obj\Debug\net7.0\ref\p03-area_triangulo.dll

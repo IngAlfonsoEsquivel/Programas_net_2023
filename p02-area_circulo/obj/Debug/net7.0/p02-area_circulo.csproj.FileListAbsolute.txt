@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\bin\Debug\net7.0\p02-area_circulo.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\bin\Debug\net7.0\p02-area_circulo.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\bin\Debug\net7.0\p02-area_circulo.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\bin\Debug\net7.0\p02-area_circulo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\bin\Debug\net7.0\p02-area_circulo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\refint\p02-area_circulo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\p02-area_circulo.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p02-area_circulo\obj\Debug\net7.0\ref\p02-area_circulo.dll
