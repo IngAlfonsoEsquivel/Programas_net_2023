@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\bin\Debug\net7.0\p07-operadores-asig.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\bin\Debug\net7.0\p07-operadores-asig.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\bin\Debug\net7.0\p07-operadores-asig.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\bin\Debug\net7.0\p07-operadores-asig.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\bin\Debug\net7.0\p07-operadores-asig.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\refint\p07-operadores-asig.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\p07-operadores-asig.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p07-operadores-asig\obj\Debug\net7.0\ref\p07-operadores-asig.dll

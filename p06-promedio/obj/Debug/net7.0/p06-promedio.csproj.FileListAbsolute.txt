@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\bin\Debug\net7.0\p06-promedio.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\bin\Debug\net7.0\p06-promedio.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\bin\Debug\net7.0\p06-promedio.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\bin\Debug\net7.0\p06-promedio.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\bin\Debug\net7.0\p06-promedio.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\refint\p06-promedio.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\p06-promedio.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p06-promedio\obj\Debug\net7.0\ref\p06-promedio.dll

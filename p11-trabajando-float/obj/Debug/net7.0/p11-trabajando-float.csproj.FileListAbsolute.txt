@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\bin\Debug\net7.0\p11-trabajando-float.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\bin\Debug\net7.0\p11-trabajando-float.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\bin\Debug\net7.0\p11-trabajando-float.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\bin\Debug\net7.0\p11-trabajando-float.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\bin\Debug\net7.0\p11-trabajando-float.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\refint\p11-trabajando-float.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\p11-trabajando-float.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p11-trabajando-float\obj\Debug\net7.0\ref\p11-trabajando-float.dll

@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\bin\Debug\net7.0\p21-Verifica-numero.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\bin\Debug\net7.0\p21-Verifica-numero.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\bin\Debug\net7.0\p21-Verifica-numero.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\bin\Debug\net7.0\p21-Verifica-numero.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\bin\Debug\net7.0\p21-Verifica-numero.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\refint\p21-Verifica-numero.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\p21-Verifica-numero.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p21-Verifica-numero\obj\Debug\net7.0\ref\p21-Verifica-numero.dll

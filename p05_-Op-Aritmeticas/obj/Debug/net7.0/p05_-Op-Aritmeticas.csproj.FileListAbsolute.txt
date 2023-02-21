@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\bin\Debug\net7.0\p05_-Op-Aritmeticas.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\bin\Debug\net7.0\p05_-Op-Aritmeticas.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\bin\Debug\net7.0\p05_-Op-Aritmeticas.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\bin\Debug\net7.0\p05_-Op-Aritmeticas.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\bin\Debug\net7.0\p05_-Op-Aritmeticas.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\refint\p05_-Op-Aritmeticas.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\p05_-Op-Aritmeticas.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p05_-Op-Aritmeticas\obj\Debug\net7.0\ref\p05_-Op-Aritmeticas.dll

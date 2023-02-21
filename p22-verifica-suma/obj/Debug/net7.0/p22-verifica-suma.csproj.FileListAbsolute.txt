@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\bin\Debug\net7.0\p22-verifica-suma.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\bin\Debug\net7.0\p22-verifica-suma.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\bin\Debug\net7.0\p22-verifica-suma.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\bin\Debug\net7.0\p22-verifica-suma.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\bin\Debug\net7.0\p22-verifica-suma.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\refint\p22-verifica-suma.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\p22-verifica-suma.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p22-verifica-suma\obj\Debug\net7.0\ref\p22-verifica-suma.dll
