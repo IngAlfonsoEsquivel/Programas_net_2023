@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\bin\Debug\net7.0\p28-Ley-De-Newton.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\bin\Debug\net7.0\p28-Ley-De-Newton.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\bin\Debug\net7.0\p28-Ley-De-Newton.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\bin\Debug\net7.0\p28-Ley-De-Newton.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\bin\Debug\net7.0\p28-Ley-De-Newton.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\refint\p28-Ley-De-Newton.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\p28-Ley-De-Newton.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p28-Ley-De-Newton\obj\Debug\net7.0\ref\p28-Ley-De-Newton.dll
