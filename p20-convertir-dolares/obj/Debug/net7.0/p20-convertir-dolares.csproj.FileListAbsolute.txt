@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\bin\Debug\net7.0\p20-convertir-dolares.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\bin\Debug\net7.0\p20-convertir-dolares.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\bin\Debug\net7.0\p20-convertir-dolares.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\bin\Debug\net7.0\p20-convertir-dolares.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\bin\Debug\net7.0\p20-convertir-dolares.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\refint\p20-convertir-dolares.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\p20-convertir-dolares.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p20-convertir-dolares\obj\Debug\net7.0\ref\p20-convertir-dolares.dll

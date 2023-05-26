@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\bin\Debug\net7.0\p49-conjentura-collatz.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\bin\Debug\net7.0\p49-conjentura-collatz.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\bin\Debug\net7.0\p49-conjentura-collatz.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\bin\Debug\net7.0\p49-conjentura-collatz.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\bin\Debug\net7.0\p49-conjentura-collatz.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\refint\p49-conjentura-collatz.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\p49-conjentura-collatz.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p49-conjentura-collatz\obj\Debug\net7.0\ref\p49-conjentura-collatz.dll

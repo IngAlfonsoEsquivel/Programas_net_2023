@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\bin\Debug\net7.0\p42-numeros-100a1.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\bin\Debug\net7.0\p42-numeros-100a1.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\bin\Debug\net7.0\p42-numeros-100a1.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\bin\Debug\net7.0\p42-numeros-100a1.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\bin\Debug\net7.0\p42-numeros-100a1.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\refint\p42-numeros-100a1.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\p42-numeros-100a1.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p42-numeros-100a1\obj\Debug\net7.0\ref\p42-numeros-100a1.dll

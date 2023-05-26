@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\bin\Debug\net7.0\p13-trabajando-caracter.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\refint\p13-trabajando-caracter.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\p13-trabajando-caracter.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p13-trabajando-caracter\obj\Debug\net7.0\ref\p13-trabajando-caracter.dll

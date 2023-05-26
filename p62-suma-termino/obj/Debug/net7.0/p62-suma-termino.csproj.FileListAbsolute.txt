@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\bin\Debug\net7.0\p62-suma-termino.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\bin\Debug\net7.0\p62-suma-termino.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\bin\Debug\net7.0\p62-suma-termino.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\bin\Debug\net7.0\p62-suma-termino.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\bin\Debug\net7.0\p62-suma-termino.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\refint\p62-suma-termino.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\p62-suma-termino.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p62-suma-termino\obj\Debug\net7.0\ref\p62-suma-termino.dll

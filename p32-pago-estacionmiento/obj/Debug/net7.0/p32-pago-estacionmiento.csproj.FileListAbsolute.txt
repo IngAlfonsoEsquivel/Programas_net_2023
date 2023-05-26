@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\bin\Debug\net7.0\p32-pago-estacionmiento.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\bin\Debug\net7.0\p32-pago-estacionmiento.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\bin\Debug\net7.0\p32-pago-estacionmiento.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\bin\Debug\net7.0\p32-pago-estacionmiento.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\bin\Debug\net7.0\p32-pago-estacionmiento.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\refint\p32-pago-estacionmiento.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\p32-pago-estacionmiento.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p32-pago-estacionmiento\obj\Debug\net7.0\ref\p32-pago-estacionmiento.dll

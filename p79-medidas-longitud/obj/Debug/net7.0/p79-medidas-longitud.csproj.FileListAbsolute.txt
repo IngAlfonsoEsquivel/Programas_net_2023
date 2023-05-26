@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\bin\Debug\net7.0\p79-medidas-longitud.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\refint\p79-medidas-longitud.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\p79-medidas-longitud.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p79-medidas-longitud\obj\Debug\net7.0\ref\p79-medidas-longitud.dll

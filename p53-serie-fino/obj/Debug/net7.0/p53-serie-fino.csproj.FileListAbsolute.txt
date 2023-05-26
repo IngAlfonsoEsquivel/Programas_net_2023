@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\bin\Debug\net7.0\p53-serie-fino.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\bin\Debug\net7.0\p53-serie-fino.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\bin\Debug\net7.0\p53-serie-fino.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\bin\Debug\net7.0\p53-serie-fino.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\bin\Debug\net7.0\p53-serie-fino.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\refint\p53-serie-fino.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\p53-serie-fino.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p53-serie-fino\obj\Debug\net7.0\ref\p53-serie-fino.dll

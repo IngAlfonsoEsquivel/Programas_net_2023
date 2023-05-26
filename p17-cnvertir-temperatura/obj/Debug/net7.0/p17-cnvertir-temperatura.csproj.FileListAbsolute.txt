@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\bin\Debug\net7.0\p17-cnvertir-temperatura.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\bin\Debug\net7.0\p17-cnvertir-temperatura.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\bin\Debug\net7.0\p17-cnvertir-temperatura.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\bin\Debug\net7.0\p17-cnvertir-temperatura.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\bin\Debug\net7.0\p17-cnvertir-temperatura.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\refint\p17-cnvertir-temperatura.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\p17-cnvertir-temperatura.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p17-cnvertir-temperatura\obj\Debug\net7.0\ref\p17-cnvertir-temperatura.dll

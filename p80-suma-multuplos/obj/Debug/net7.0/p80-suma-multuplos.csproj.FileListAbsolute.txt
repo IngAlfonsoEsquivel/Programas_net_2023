@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\bin\Debug\net7.0\p80-suma-multuplos.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\bin\Debug\net7.0\p80-suma-multuplos.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\bin\Debug\net7.0\p80-suma-multuplos.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\bin\Debug\net7.0\p80-suma-multuplos.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\bin\Debug\net7.0\p80-suma-multuplos.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\refint\p80-suma-multuplos.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\p80-suma-multuplos.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p80-suma-multuplos\obj\Debug\net7.0\ref\p80-suma-multuplos.dll

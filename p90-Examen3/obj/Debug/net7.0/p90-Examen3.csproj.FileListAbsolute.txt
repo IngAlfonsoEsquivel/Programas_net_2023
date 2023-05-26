@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\bin\Debug\net7.0\p90-Examen3.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\bin\Debug\net7.0\p90-Examen3.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\bin\Debug\net7.0\p90-Examen3.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\bin\Debug\net7.0\p90-Examen3.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\bin\Debug\net7.0\p90-Examen3.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\refint\p90-Examen3.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\p90-Examen3.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p90-Examen3\obj\Debug\net7.0\ref\p90-Examen3.dll

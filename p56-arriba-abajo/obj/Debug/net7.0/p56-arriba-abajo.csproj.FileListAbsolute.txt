@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\bin\Debug\net7.0\p56-arriba-abajo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\refint\p56-arriba-abajo.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\p56-arriba-abajo.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p56-arriba-abajo\obj\Debug\net7.0\ref\p56-arriba-abajo.dll

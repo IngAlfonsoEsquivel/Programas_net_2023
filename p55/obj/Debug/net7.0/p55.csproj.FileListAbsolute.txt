@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\bin\Debug\net7.0\p55.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\bin\Debug\net7.0\p55.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\bin\Debug\net7.0\p55.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\bin\Debug\net7.0\p55.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\bin\Debug\net7.0\p55.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\refint\p55.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\p55.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p55\obj\Debug\net7.0\ref\p55.dll

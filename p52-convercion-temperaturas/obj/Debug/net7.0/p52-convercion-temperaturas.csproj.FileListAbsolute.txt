@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\bin\Debug\net7.0\p52-convercion-temperaturas.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\bin\Debug\net7.0\p52-convercion-temperaturas.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\bin\Debug\net7.0\p52-convercion-temperaturas.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\bin\Debug\net7.0\p52-convercion-temperaturas.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\bin\Debug\net7.0\p52-convercion-temperaturas.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\refint\p52-convercion-temperaturas.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\p52-convercion-temperaturas.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p52-convercion-temperaturas\obj\Debug\net7.0\ref\p52-convercion-temperaturas.dll

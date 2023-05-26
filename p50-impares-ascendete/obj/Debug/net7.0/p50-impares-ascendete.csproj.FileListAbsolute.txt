@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\bin\Debug\net7.0\p50-impares-ascendete.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\bin\Debug\net7.0\p50-impares-ascendete.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\bin\Debug\net7.0\p50-impares-ascendete.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\bin\Debug\net7.0\p50-impares-ascendete.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\bin\Debug\net7.0\p50-impares-ascendete.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\refint\p50-impares-ascendete.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\p50-impares-ascendete.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p50-impares-ascendete\obj\Debug\net7.0\ref\p50-impares-ascendete.dll

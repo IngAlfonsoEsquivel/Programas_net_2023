@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\bin\Debug\net7.0\p48-tabla-convercionn.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\bin\Debug\net7.0\p48-tabla-convercionn.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\bin\Debug\net7.0\p48-tabla-convercionn.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\bin\Debug\net7.0\p48-tabla-convercionn.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\bin\Debug\net7.0\p48-tabla-convercionn.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\refint\p48-tabla-convercionn.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\p48-tabla-convercionn.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p48-tabla-convercionn\obj\Debug\net7.0\ref\p48-tabla-convercionn.dll

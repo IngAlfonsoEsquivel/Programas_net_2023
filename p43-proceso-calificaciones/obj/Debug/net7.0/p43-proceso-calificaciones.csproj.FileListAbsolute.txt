@@ -1,0 +1,15 @@
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\bin\Debug\net7.0\p43-proceso-calificaciones.exe
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\bin\Debug\net7.0\p43-proceso-calificaciones.deps.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\bin\Debug\net7.0\p43-proceso-calificaciones.runtimeconfig.json
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\bin\Debug\net7.0\p43-proceso-calificaciones.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\bin\Debug\net7.0\p43-proceso-calificaciones.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.csproj.AssemblyReference.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.AssemblyInfoInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.AssemblyInfo.cs
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\refint\p43-proceso-calificaciones.dll
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.pdb
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\p43-proceso-calificaciones.genruntimeconfig.cache
+C:\Users\qlfonso\Documents\Programacion web\Programas_net_2023\p43-proceso-calificaciones\obj\Debug\net7.0\ref\p43-proceso-calificaciones.dll
